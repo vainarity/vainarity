@@ -2,4 +2,4 @@
 
 roblox developer. building tools and bots.
 
-![stats](https://readme-stats.clckblog.space/api?username=vainarity&show_icons=true&theme=tokyonight&hide_border=true)
+[roblox-outfit-renamer](https://github.com/vainarity/roblox-outfit-renamer) — bulk rename your roblox outfits from the terminal
